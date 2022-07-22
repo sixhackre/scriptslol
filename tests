@@ -1,0 +1,10 @@
+
+
+
+if G_Warn == "Sus" then
+   warn("Amogus")
+end
+
+warn(G_Warn)
+
+print(G_Print)
