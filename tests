@@ -1,10 +1,10 @@
 
 
 
-if G_Warn == "Sus" then
+if _G.Warn == "Sus" then
    warn("Amogus")
 end
 
-warn(G_Warn)
+warn(_G.Warn)
 
-print(G_Print)
+print(_G.Print)
